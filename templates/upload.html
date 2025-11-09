@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="upload-container">
+    <h2>Upload Audio for Analysis</h2>
+    <form method="post" enctype="multipart/form-data">
+        <div class="upload-area" id="uploadArea">
+            <i class="fas fa-cloud-upload-alt"></i>
+            <h3>Select Audio File</h3>
+            <p>Click to select or drag and drop your audio file</p>
+            <input type="file" name="file" id="fileInput" accept=".wav,.mp3,.flac,.m4a" required>
+        </div>
+        <button type="submit" class="btn" style="margin-top: 20px;">
+            <i class="fas fa-rocket"></i> Analyze Audio
+        </button>
+    </form>
+</div>
+{% endblock %}

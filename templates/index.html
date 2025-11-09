@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="upload-container">
+    <div class="upload-area" id="uploadArea">
+        <i class="fas fa-cloud-upload-alt"></i>
+        <h3>Upload Audio Files</h3>
+        <p>Click to select or drag and drop WAV, MP3, FLAC, or M4A files</p>
+        <p class="small">Maximum file size: 16MB</p>
+        <div id="fileList"></div>
+    </div>
+    
+    <input type="file" id="fileInput" multiple accept=".wav,.mp3,.flac,.m4a" style="display: none;">
+    
+    <div style="text-align: center; margin-top: 20px;">
+        <button class="btn" id="analyzeBtn">
+            <i class="fas fa-chart-bar"></i> Analyze Single File
+        </button>
+        <button class="btn" id="batchAnalyzeBtn" style="margin-left: 10px;">
+            <i class="fas fa-layer-group"></i> Batch Analyze
+        </button>
+    </div>
+</div>
+
+<div class="results-container" id="resultsContainer" style="display: none;">
+</div>
+{% endblock %}
